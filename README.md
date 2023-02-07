@@ -3,7 +3,7 @@
 
 ## Team Members
 - Julie Deng
-- ELlen Ko
+- Ellen Ko
 
 ## Lab Question Answers
 
